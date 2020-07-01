@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.logo-img{
+	height: 40px;
+	display: block;
+}
+.login-section{
+	color: white;
+
+}
+
+
+.form-section{
+	color: black;
+}
+.form-p p{
+	font-size: 20px;
+	padding: 20px 0;
+}
+.build-section{
+	padding-top: 100px;
+
+}
+
+.build-section h1{
+	font-size: 60px;
+	font-weight: 600;
+}
+.build-section p{
+	font-size: 20px;
+	align-items: center;
+	padding-right: 20px;
+}
+
+.learn-more p{
+	font-size: 12px;
+	padding-top: 10px;
+}
+
+.by-clicking p{
+	font-size: 12px;
+}
+
+.teams-section{
+	margin: 150px 0;
+	padding: 30px;
+	background-color: #003F7E;
+	color: #fff;
+}
+
+.teams-section h3{
+	font-size: 30px;
+	font-weight: 600;
+}
